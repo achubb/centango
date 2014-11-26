@@ -1,0 +1,23 @@
+# OSX
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Python 
+
+__pycache__/
+*.py[cod]
+
+# Installer logs
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+
+*.log
