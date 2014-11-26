@@ -44,3 +44,10 @@ Then, to run the local server, simply run:
 	djrun
 
 This will invoke the local server. If you set up your hosts file in the above steps, then you should be able to go to http://centango.dev:8000 and you should see the running Django site.  
+
+## Administration
+
+To get straight into the Django admin. You can go to http://centango.dev:8000/admin and use the following creadentials.
+
+u: *admin*
+p: *nimda*
